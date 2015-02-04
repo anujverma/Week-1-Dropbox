@@ -17,3 +17,4 @@ Which required and optional stories have you completed?
 - User can log out from the Settings screen.
 - Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 
+![alt tag](https://raw.githubusercontent.com/anujverma/Week-1-Dropbox/master/Week1-Dropbox.gif)
