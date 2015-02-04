@@ -5,6 +5,7 @@ A prototype of the Dropbox iOS app
 
 How many hours did it take to complete?
 - Took about four hours.
+
 Which required and optional stories have you completed? 
 - User can tap through the 3 welcome screens.
 - User can follow the create user flow.
